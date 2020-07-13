@@ -1,3 +1,3 @@
 export default function log {
-  return ''
+  return 'log'
 }
